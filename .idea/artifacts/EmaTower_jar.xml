@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EmaTower:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmaTower_jar</output-path>
+    <root id="archive" name="EmaTower.jar">
+      <element id="module-output" name="EmaTower" />
+    </root>
+  </artifact>
+</component>

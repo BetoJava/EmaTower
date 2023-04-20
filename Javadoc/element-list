@@ -1,0 +1,16 @@
+unnamed package
+scripts.bot
+scripts.display.gui
+scripts.display.gui.components
+scripts.display.gui.groups
+scripts.display.resources
+scripts.display.utils
+scripts.game
+scripts.game.entities
+scripts.game.entities.enemies
+scripts.game.entities.players
+scripts.game.gamestates
+scripts.game.spells
+scripts.game.statut
+scripts.game.utils
+scripts.main
