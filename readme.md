@@ -5,7 +5,7 @@ This is my first Java project in engineering school. Made with Java Swing, this 
 You can run the game from the *EmaTower.jar* file.
 
 ## A screenshot from the game 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/screenshot.jpg)
 
 ## All heroes' cards
 ![Screenshot](images/warrior.png)
